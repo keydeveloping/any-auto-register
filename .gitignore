@@ -51,3 +51,5 @@ data/
 .vscode/
 *.swp
 .ace-tool/
+python-3.10.11-amd64.exe
+python-3.11.8-amd64.exe
